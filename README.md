@@ -44,7 +44,7 @@ The open-source image product [**Cassandra**](https://marketplace.huaweicloud.co
 
 | Image Specification                            | Feature Description                                           | Remarks |
 |---------------------------------|------------------------------------------------| --- |
-| [Cassandra-4.1.3-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/cassandra-image/tree/Cassandra-4.1.3-kunpeng-HCE) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
+| [Cassandra-4.1.3-kunpeng](https://github.com/HuaweiCloudDeveloper/cassandra-image/tree/Cassandra-4.1.3-kunpeng) | Installed and deployed based on Kunpeng servers + Huawei Cloud EulerOS 2.0 64-bit |  |
 
 ## Get Help
 - For more questions, you can contact us via [issues](https://github.com/HuaweiCloudDeveloper/cassandra-image/issues) or the service support of the specified product in the Huawei Cloud Marketplace.

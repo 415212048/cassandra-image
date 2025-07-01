@@ -44,7 +44,7 @@
 
 | 镜像规格                            | 特性说明                                           | 备注 |
 |---------------------------------|------------------------------------------------| --- |
-| [Cassandra-4.1.3-kunpeng-HCE](https://github.com/HuaweiCloudDeveloper/cassandra-image/tree/Cassandra-4.1.3-kunpeng-HCE) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Cassandra-4.1.3-kunpeng](https://github.com/HuaweiCloudDeveloper/cassandra-image/tree/Cassandra-4.1.3-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/cassandra-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
