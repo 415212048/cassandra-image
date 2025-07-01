@@ -1,4 +1,4 @@
-# Cassandra-4.1.3-kunpeng-HCE
+# Cassandra-4.1.3-kunpeng
 
 ## 规格说明
 
@@ -11,6 +11,6 @@
 
 ## 使用说明
 
-- 华为云云商店：[Cassandra-4.1.3-kunpeng-HCE](./docs/usage.md)
+- 华为云云商店：[Cassandra数据库使用指南](./docs/usage.md)
 
 更多问题可通过 [**issue**](https://github.com/HuaweiCloudDeveloper/cassandra-image/issues) 或 **华为云云商店指定商品的服务支持** 与我们取得联系。
